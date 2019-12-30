@@ -1,0 +1,1 @@
+Folder with jupyter notebooks from Google's course for AI & ML
